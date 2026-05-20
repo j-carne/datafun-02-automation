@@ -150,6 +150,7 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ## Example Output
 
 ```shell
+## names below in the code are changed to reflect the current author Carne
 | P02 | ========================
 | P02 | START main()
 | P02 | ========================

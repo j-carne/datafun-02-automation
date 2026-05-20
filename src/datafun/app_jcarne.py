@@ -1,6 +1,6 @@
 """src/datafun/app_case.py - Project script (example).
 
-Author: Denise Case
+Author: Denise Case, Jereme Carne
 Date: 2026-04
 
   Practice key Python skills related to:
@@ -93,7 +93,7 @@ def create_files_from_numeric_range() -> None:
     LOG.info(f"Last quarter:  {LAST_QUARTER}")
 
     for quarter_number in range(FIRST_QUARTER, LAST_QUARTER + 1):
-        filename: str = f"case_quarter_{quarter_number}.txt"
+        filename: str = f"Carne_quarter_{quarter_number}.txt"
         path: Path = PROCESSED_DIR / filename
         content: str = f"Report for quarter number: {quarter_number}\n"
         write_text_file(path=path, content=content)
@@ -118,7 +118,7 @@ def create_files_from_list() -> None:
     LOG.info(f"Pet list: {PET_LIST}")
 
     for pet_name in PET_LIST:
-        filename: str = f"case_{pet_name}.txt"
+        filename: str = f"Carne_{pet_name}.txt"
         path: Path = PROCESSED_DIR / filename
         content: str = f"Pet data for: '{pet_name}'\n"
         write_text_file(path=path, content=content)
@@ -148,7 +148,7 @@ def create_files_using_list_comprehension() -> None:
     LOG.info(f"Transformed list: {favorite_list}")
 
     for favorite in favorite_list:
-        filename: str = f"case_{favorite}.txt"
+        filename: str = f"Carne_{favorite}.txt"
         path: Path = PROCESSED_DIR / filename
         content: str = f"Special data about: '{favorite}'\n"
         write_text_file(path=path, content=content)
@@ -176,7 +176,7 @@ def create_files_periodically() -> None:
     i: int = 1
 
     while i <= FILE_COUNT:
-        filename: str = f"case_{i:02d}.txt"
+        filename: str = f"Carne_{i:02d}.txt"
         path: Path = PROCESSED_DIR / filename
         content: str = f"Periodic file number: {i}\n"
         write_text_file(path=path, content=content)
