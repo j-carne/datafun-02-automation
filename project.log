@@ -292,3 +292,431 @@
 2026-05-20 16:43:48 | INFO | P02 | ========================
 2026-05-20 16:43:48 | INFO | P02 | Executed successfully!
 2026-05-20 16:43:48 | INFO | P02 | ========================
+2026-05-20 17:14:23 | INFO | P02 | === RUN START ===
+2026-05-20 17:14:23 | INFO | P02 | project=P02
+2026-05-20 17:14:23 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:14:23 | INFO | P02 | python=3.14.5
+2026-05-20 17:14:23 | INFO | P02 | os=Windows 11
+2026-05-20 17:14:23 | INFO | P02 | shell=powershell
+2026-05-20 17:14:23 | INFO | P02 | cwd=.
+2026-05-20 17:14:23 | INFO | P02 | github_actions=False
+2026-05-20 17:14:23 | INFO | P02 | ========================
+2026-05-20 17:14:23 | INFO | P02 | START main()
+2026-05-20 17:14:23 | INFO | P02 | ========================
+2026-05-20 17:14:23 | INFO | P02 | ========================
+2026-05-20 17:14:23 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:14:23 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | === RUN START ===
+2026-05-20 17:16:15 | INFO | P02 | project=P02
+2026-05-20 17:16:15 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:16:15 | INFO | P02 | python=3.14.5
+2026-05-20 17:16:15 | INFO | P02 | os=Windows 11
+2026-05-20 17:16:15 | INFO | P02 | shell=powershell
+2026-05-20 17:16:15 | INFO | P02 | cwd=.
+2026-05-20 17:16:15 | INFO | P02 | github_actions=False
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | START main()
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | First quarter: 1
+2026-05-20 17:16:15 | INFO | P02 | Last quarter:  4
+2026-05-20 17:16:15 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:16:15 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:16:15 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:16:15 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:16:15 | INFO | P02 | ========================
+2026-05-20 17:16:15 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After CloseMU - Micron Technology - ~Jun 24, 2026 - After CloseASML - ASML - ~Jul 15, 2026 - Before OpenTSLA - Tesla - ~Jul 22, 2026 - After CloseGOOGL - Alphabet - ~Jul 22, 2026 - After CloseMSFT - Microsoft - ~Jul 29, 2026 - After CloseMETA - Meta Platforms - ~Jul 29, 2026 - After CloseAAPL - Apple - ~Jul 30, 2026 - After CloseAMZN - Amazon - ~Jul 30, 2026 - After CloseSNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:17:36 | INFO | P02 | === RUN START ===
+2026-05-20 17:17:36 | INFO | P02 | project=P02
+2026-05-20 17:17:36 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:17:36 | INFO | P02 | python=3.14.5
+2026-05-20 17:17:36 | INFO | P02 | os=Windows 11
+2026-05-20 17:17:36 | INFO | P02 | shell=powershell
+2026-05-20 17:17:36 | INFO | P02 | cwd=.
+2026-05-20 17:17:36 | INFO | P02 | github_actions=False
+2026-05-20 17:17:36 | INFO | P02 | ========================
+2026-05-20 17:17:36 | INFO | P02 | START main()
+2026-05-20 17:17:36 | INFO | P02 | ========================
+2026-05-20 17:19:07 | INFO | P02 | === RUN START ===
+2026-05-20 17:19:07 | INFO | P02 | project=P02
+2026-05-20 17:19:07 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:19:07 | INFO | P02 | python=3.14.5
+2026-05-20 17:19:08 | INFO | P02 | os=Windows 11
+2026-05-20 17:19:08 | INFO | P02 | shell=powershell
+2026-05-20 17:19:08 | INFO | P02 | cwd=.
+2026-05-20 17:19:08 | INFO | P02 | github_actions=False
+2026-05-20 17:19:08 | INFO | P02 | ========================
+2026-05-20 17:19:08 | INFO | P02 | START main()
+2026-05-20 17:19:08 | INFO | P02 | ========================
+2026-05-20 17:19:08 | INFO | P02 | ========================
+2026-05-20 17:19:08 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:19:08 | INFO | P02 | ========================
+2026-05-20 17:19:08 | INFO | P02 | Stocks list: ['NVDA - NVIDIA - May 20, 2026 - After CloseMU - Micron Technology - ~Jun 24, 2026 - After CloseASML - ASML - ~Jul 15, 2026 - Before OpenTSLA - Tesla - ~Jul 22, 2026 - After CloseGOOGL - Alphabet - ~Jul 22, 2026 - After CloseMSFT - Microsoft - ~Jul 29, 2026 - After CloseMETA - Meta Platforms - ~Jul 29, 2026 - After CloseAAPL - Apple - ~Jul 30, 2026 - After CloseAMZN - Amazon - ~Jul 30, 2026 - After CloseSNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:19:54 | INFO | P02 | === RUN START ===
+2026-05-20 17:19:54 | INFO | P02 | project=P02
+2026-05-20 17:19:54 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:19:54 | INFO | P02 | python=3.14.5
+2026-05-20 17:19:54 | INFO | P02 | os=Windows 11
+2026-05-20 17:19:54 | INFO | P02 | shell=powershell
+2026-05-20 17:19:54 | INFO | P02 | cwd=.
+2026-05-20 17:19:54 | INFO | P02 | github_actions=False
+2026-05-20 17:19:54 | INFO | P02 | ========================
+2026-05-20 17:19:54 | INFO | P02 | START main()
+2026-05-20 17:19:54 | INFO | P02 | ========================
+2026-05-20 17:19:54 | INFO | P02 | ========================
+2026-05-20 17:19:54 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:19:54 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | === RUN START ===
+2026-05-20 17:21:13 | INFO | P02 | project=P02
+2026-05-20 17:21:13 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:21:13 | INFO | P02 | python=3.14.5
+2026-05-20 17:21:13 | INFO | P02 | os=Windows 11
+2026-05-20 17:21:13 | INFO | P02 | shell=powershell
+2026-05-20 17:21:13 | INFO | P02 | cwd=.
+2026-05-20 17:21:13 | INFO | P02 | github_actions=False
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | START main()
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | First quarter: 1
+2026-05-20 17:21:13 | INFO | P02 | Last quarter:  4
+2026-05-20 17:21:13 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:21:13 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:21:13 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:21:13 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:21:13 | INFO | P02 | ========================
+2026-05-20 17:21:13 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After CloseMU - Micron Technology - ~Jun 24, 2026 - After CloseASML - ASML - ~Jul 15, 2026 - Before OpenTSLA - Tesla - ~Jul 22, 2026 - After CloseGOOGL - Alphabet - ~Jul 22, 2026 - After CloseMSFT - Microsoft - ~Jul 29, 2026 - After CloseMETA - Meta Platforms - ~Jul 29, 2026 - After CloseAAPL - Apple - ~Jul 30, 2026 - After CloseAMZN - Amazon - ~Jul 30, 2026 - After CloseSNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:23:23 | INFO | P02 | === RUN START ===
+2026-05-20 17:23:23 | INFO | P02 | project=P02
+2026-05-20 17:23:23 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:23:23 | INFO | P02 | python=3.14.5
+2026-05-20 17:23:24 | INFO | P02 | os=Windows 11
+2026-05-20 17:23:24 | INFO | P02 | shell=powershell
+2026-05-20 17:23:24 | INFO | P02 | cwd=.
+2026-05-20 17:23:24 | INFO | P02 | github_actions=False
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | START main()
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | First quarter: 1
+2026-05-20 17:23:24 | INFO | P02 | Last quarter:  4
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | Wrote file: Carne_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:23:24 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 17:23:24 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | === RUN START ===
+2026-05-20 17:24:19 | INFO | P02 | project=P02
+2026-05-20 17:24:19 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:24:19 | INFO | P02 | python=3.14.5
+2026-05-20 17:24:19 | INFO | P02 | os=Windows 11
+2026-05-20 17:24:19 | INFO | P02 | shell=powershell
+2026-05-20 17:24:19 | INFO | P02 | cwd=.
+2026-05-20 17:24:19 | INFO | P02 | github_actions=False
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | START main()
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | First quarter: 1
+2026-05-20 17:24:19 | INFO | P02 | Last quarter:  4
+2026-05-20 17:24:19 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:24:19 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:24:19 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:24:19 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:19 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:24:19 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | === RUN START ===
+2026-05-20 17:24:47 | INFO | P02 | project=P02
+2026-05-20 17:24:47 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:24:47 | INFO | P02 | python=3.14.5
+2026-05-20 17:24:47 | INFO | P02 | os=Windows 11
+2026-05-20 17:24:47 | INFO | P02 | shell=powershell
+2026-05-20 17:24:47 | INFO | P02 | cwd=.
+2026-05-20 17:24:47 | INFO | P02 | github_actions=False
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | START main()
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | First quarter: 1
+2026-05-20 17:24:47 | INFO | P02 | Last quarter:  4
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | Original list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:24:47 | INFO | P02 | Transformed list: ['favorite_NVDA - NVIDIA - May 20, 2026 - After Close', 'favorite_MU - Micron Technology - ~Jun 24, 2026 - After Close', 'favorite_ASML - ASML - ~Jul 15, 2026 - Before Open', 'favorite_TSLA - Tesla - ~Jul 22, 2026 - After Close', 'favorite_GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'favorite_MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'favorite_META - Meta Platforms - ~Jul 29, 2026 - After Close', 'favorite_AAPL - Apple - ~Jul 30, 2026 - After Close', 'favorite_AMZN - Amazon - ~Jul 30, 2026 - After Close', 'favorite_SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_favorite_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 17:24:47 | INFO | P02 | ========================
+2026-05-20 17:24:47 | INFO | P02 | Files to create: 3
+2026-05-20 17:24:47 | INFO | P02 | Seconds between files: 1
+2026-05-20 17:24:47 | INFO | P02 | Wrote file: Carne_01.txt
+2026-05-20 17:24:47 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:24:48 | INFO | P02 | Wrote file: Carne_02.txt
+2026-05-20 17:24:48 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:24:49 | INFO | P02 | Wrote file: Carne_03.txt
+2026-05-20 17:24:49 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:24:50 | INFO | P02 | ========================
+2026-05-20 17:24:50 | INFO | P02 | Executed successfully!
+2026-05-20 17:24:50 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | === RUN START ===
+2026-05-20 17:25:16 | INFO | P02 | project=P02
+2026-05-20 17:25:16 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:25:16 | INFO | P02 | python=3.14.5
+2026-05-20 17:25:16 | INFO | P02 | os=Windows 11
+2026-05-20 17:25:16 | INFO | P02 | shell=powershell
+2026-05-20 17:25:16 | INFO | P02 | cwd=.
+2026-05-20 17:25:16 | INFO | P02 | github_actions=False
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | START main()
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | First quarter: 1
+2026-05-20 17:25:16 | INFO | P02 | Last quarter:  4
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_quarter_1.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_quarter_2.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_quarter_3.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_quarter_4.txt
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | Original list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:25:16 | INFO | P02 | Transformed list: ['favorite_NVDA - NVIDIA - May 20, 2026 - After Close', 'favorite_MU - Micron Technology - ~Jun 24, 2026 - After Close', 'favorite_ASML - ASML - ~Jul 15, 2026 - Before Open', 'favorite_TSLA - Tesla - ~Jul 22, 2026 - After Close', 'favorite_GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'favorite_MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'favorite_META - Meta Platforms - ~Jul 29, 2026 - After Close', 'favorite_AAPL - Apple - ~Jul 30, 2026 - After Close', 'favorite_AMZN - Amazon - ~Jul 30, 2026 - After Close', 'favorite_SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_favorite_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 17:25:16 | INFO | P02 | ========================
+2026-05-20 17:25:16 | INFO | P02 | Files to create: 3
+2026-05-20 17:25:16 | INFO | P02 | Seconds between files: 1
+2026-05-20 17:25:16 | INFO | P02 | Wrote file: Carne_01.txt
+2026-05-20 17:25:16 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:25:17 | INFO | P02 | Wrote file: Carne_02.txt
+2026-05-20 17:25:17 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:25:18 | INFO | P02 | Wrote file: Carne_03.txt
+2026-05-20 17:25:18 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 17:25:19 | INFO | P02 | ========================
+2026-05-20 17:25:19 | INFO | P02 | Executed successfully!
+2026-05-20 17:25:19 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | === RUN START ===
+2026-05-20 17:28:45 | INFO | P02 | project=P02
+2026-05-20 17:28:45 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:28:45 | INFO | P02 | python=3.14.5
+2026-05-20 17:28:45 | INFO | P02 | os=Windows 11
+2026-05-20 17:28:45 | INFO | P02 | shell=powershell
+2026-05-20 17:28:45 | INFO | P02 | cwd=.
+2026-05-20 17:28:45 | INFO | P02 | github_actions=False
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | START main()
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | Wrote file: Carne_SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:28:45 | INFO | P02 | Executed successfully!
+2026-05-20 17:28:45 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | === RUN START ===
+2026-05-20 17:29:12 | INFO | P02 | project=P02
+2026-05-20 17:29:12 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:29:12 | INFO | P02 | python=3.14.5
+2026-05-20 17:29:12 | INFO | P02 | os=Windows 11
+2026-05-20 17:29:12 | INFO | P02 | shell=powershell
+2026-05-20 17:29:12 | INFO | P02 | cwd=.
+2026-05-20 17:29:12 | INFO | P02 | github_actions=False
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | START main()
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | Wrote file: SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:12 | INFO | P02 | Executed successfully!
+2026-05-20 17:29:12 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | === RUN START ===
+2026-05-20 17:29:24 | INFO | P02 | project=P02
+2026-05-20 17:29:24 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:29:24 | INFO | P02 | python=3.14.5
+2026-05-20 17:29:24 | INFO | P02 | os=Windows 11
+2026-05-20 17:29:24 | INFO | P02 | shell=powershell
+2026-05-20 17:29:24 | INFO | P02 | cwd=.
+2026-05-20 17:29:24 | INFO | P02 | github_actions=False
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | START main()
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | Wrote file: SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:29:24 | INFO | P02 | Executed successfully!
+2026-05-20 17:29:24 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | === RUN START ===
+2026-05-20 17:30:53 | INFO | P02 | project=P02
+2026-05-20 17:30:53 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:30:53 | INFO | P02 | python=3.14.5
+2026-05-20 17:30:53 | INFO | P02 | os=Windows 11
+2026-05-20 17:30:53 | INFO | P02 | shell=powershell
+2026-05-20 17:30:53 | INFO | P02 | cwd=.
+2026-05-20 17:30:53 | INFO | P02 | github_actions=False
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | START main()
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | Wrote file: SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:30:53 | INFO | P02 | Executed successfully!
+2026-05-20 17:30:53 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | === RUN START ===
+2026-05-20 17:48:52 | INFO | P02 | project=P02
+2026-05-20 17:48:52 | INFO | P02 | repo_dir=datafun-02-automation
+2026-05-20 17:48:52 | INFO | P02 | python=3.14.5
+2026-05-20 17:48:52 | INFO | P02 | os=Windows 11
+2026-05-20 17:48:52 | INFO | P02 | shell=powershell
+2026-05-20 17:48:52 | INFO | P02 | cwd=.
+2026-05-20 17:48:52 | INFO | P02 | github_actions=False
+2026-05-20 17:48:52 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | START main()
+2026-05-20 17:48:52 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 17:48:52 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | Pet list: ['NVDA - NVIDIA - May 20, 2026 - After Close', 'MU - Micron Technology - ~Jun 24, 2026 - After Close', 'ASML - ASML - ~Jul 15, 2026 - Before Open', 'TSLA - Tesla - ~Jul 22, 2026 - After Close', 'GOOGL - Alphabet - ~Jul 22, 2026 - After Close', 'MSFT - Microsoft - ~Jul 29, 2026 - After Close', 'META - Meta Platforms - ~Jul 29, 2026 - After Close', 'AAPL - Apple - ~Jul 30, 2026 - After Close', 'AMZN - Amazon - ~Jul 30, 2026 - After Close', 'SNDK - SanDisk - ~Jul 30, 2026 - After Close']
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: NVDA - NVIDIA - May 20, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: MU - Micron Technology - ~Jun 24, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: ASML - ASML - ~Jul 15, 2026 - Before Open.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: TSLA - Tesla - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: GOOGL - Alphabet - ~Jul 22, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: MSFT - Microsoft - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: META - Meta Platforms - ~Jul 29, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: AAPL - Apple - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: AMZN - Amazon - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | Wrote file: SNDK - SanDisk - ~Jul 30, 2026 - After Close.txt
+2026-05-20 17:48:52 | INFO | P02 | ========================
+2026-05-20 17:48:52 | INFO | P02 | Executed successfully!
+2026-05-20 17:48:52 | INFO | P02 | ========================
